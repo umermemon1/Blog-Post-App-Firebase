@@ -230,6 +230,7 @@ textarea {
     padding: 1.5rem;
     border: 1px solid var(--border);
     transition: var(--transition);
+    margin: 3rem;
 }
 
 .card:hover {
